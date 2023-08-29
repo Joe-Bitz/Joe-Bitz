@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Joe! 🌱 I’m currently learning python, HTML, CSS, and Javascript
 
 <!--
 **Joe-Bitz/Joe-Bitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
